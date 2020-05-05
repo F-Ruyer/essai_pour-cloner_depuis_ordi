@@ -1,5 +1,7 @@
-a=3
-b=2
+a = 3
+b = 2
+toto = a+b
+
 
 def additionne(x,y):
     return(x+y)
