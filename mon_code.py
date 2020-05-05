@@ -10,3 +10,5 @@ def additionne(x,y):
 def multiplie(x,y):
     return(x*y)
 
+c = a*b
+
